@@ -1,5 +1,5 @@
 from selenium import webdriver
-path=r'C:\Users\codyf\Desktop\driver\chromedriver'
+path=r'C:\Users\codyf\Desktop\driver\chromedriver' #change the path to where you have chromedriver saved
 import time
 from selenium.webdriver.common.keys import Keys
 
